@@ -12,8 +12,13 @@ With this code, the bot sends a notification every N time. The notification is s
 The libraries used are:
 
 import logging
+
 import telegram
+
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
+
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
+
 import datetime
+
 import threading
