@@ -9,7 +9,7 @@ The project is made for personal and educational purposes and may not be updated
 
 The project was written in Italian and the comments are in Italian. The variables are in English to be easily understood. You are free to translate the comments if you like
 
-With this code, the bot sends a notification every N time. The notification is sent to user A. If user a does not click the button, I will enter. given time N1, both user A and user B are notified. The notification is automatically resent after the passage of time N. The notifications contain the counter of how many days the bot has worked, how many notifications it has sent in total and how many in a day.
+With this code, the bot sends a notification every N time. The notification is sent to user A. If user a does not click the button, I will enter. given time N1, both user A and user B are notified. The notification is automatically resend after the passage of time N. The notifications contain the counter of how many days the bot has worked, how many notifications it has sent in total and how many in a day.
 
 The libraries used are:
 
